@@ -6,6 +6,7 @@
 [subrepo]
 	remote = git@github.com:ljsherlock/test12.com.rest.theme.git
 	branch = master
-	commit = 
+	commit = d57ec790ebf8ad67bb5a669782db5c47ad55bd69
 	method = merge
 	cmdver = 0.4.1
+	parent = 103e41f4faaa11a3dfedeb3e4addb159f3389949
